@@ -1,0 +1,10 @@
+calculate numbers - done
+save highlight to new file
+append highlight to new file
+display all occurence on a right hand side bar
+add more file types
+import word and pdf to text - done
+change highlighted text to list - done
+color highlight text with codes
+auto generate numbers
+format text into a table
